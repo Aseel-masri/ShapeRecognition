@@ -22,7 +22,8 @@ Welcome to the Shape Recognition project built in Python using the OpenCV librar
 
 ## Transformation Showcase
 
-![Before]"C:\Users\aseel\OneDrive\Desktop\New folder (4)\inputImage.png") | ![After](path-to-after-image)
+![Original Image](inputImage.png) | ![Processed Image](outputImage.png)
+
 --- | ---
 *Image Before Processing* | *Image After Shape Recognition*
 
