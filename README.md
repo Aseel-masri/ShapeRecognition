@@ -22,10 +22,9 @@ Welcome to the Shape Recognition project built in Python using the OpenCV librar
 
 ## Transformation Showcase
 
-![Original Image](inputImage.png) | ![Processed Image](outputImage.png)
-
+![Original Image](images/inputImage.png) | ![Processed Image](images/outputImage.png)
 --- | ---
-*Image Before Processing* | *Image After Shape Recognition*
+*Original Image* | *Image with Shape Recognition*
 
 ## How to Run
 
